@@ -5,3 +5,5 @@ const App =() =>{
     <TaskManager />
   )
 }
+
+export default App;
